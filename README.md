@@ -13,7 +13,7 @@ Here are two HTML files followers_1.html and following.html
 
 3) Open .csv files and delete extra rows at the top
 
-4) Make sure first row is called "Followers" and "Following" depend on which file it is
+4) Make sure first row is called "Followers" and "Following" depend on which file it is. Also check that even numbered rows are usernames and odd number rows are dates. 
 
 5) Open R script in this project
 
